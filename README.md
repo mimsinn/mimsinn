@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohsen Sadeghi
 - 👀 I’m interested in Development and gain Science
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Back-end dev
 - 😄 Pronouns: hardworker , Accurate and sensitive in learning , curious
 - ⚡ Fun fact: It's still early
